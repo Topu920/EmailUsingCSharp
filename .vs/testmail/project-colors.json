@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f806151c-b591-41ef-a088-0dd9cf469427": {
+      "ProjectGuid": "f806151c-b591-41ef-a088-0dd9cf469427",
+      "DisplayName": "testmail",
+      "ColorIndex": 0
+    },
+    "e6cd7ddb-295c-48a1-9030-df8aad77d9d5": {
+      "ProjectGuid": "e6cd7ddb-295c-48a1-9030-df8aad77d9d5",
+      "DisplayName": "testmail",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
